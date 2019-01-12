@@ -1,0 +1,32 @@
+{
+  "extensions": {
+    "mikaeljorhult.brackets-autoprefixer": true,
+    "martypenner.autosave-files-on-window-blur": true,
+    "brackets-beautify": true,
+    "bootstrap-starter-template": true,
+    "bootstrap-4-snippets": true,
+    "bootstrap-4-snippets-extension": true,
+    "djsiddz.bootstrap4-snippets": true,
+    "brackets-css-color-preview": true,
+    "petetnt.brackets-persistent-history": true,
+    "edc.brackets-snippets": true,
+    "bracketstoix": true,
+    "changecase": true,
+    "custom-work-for-brackets": true,
+    "dark_soda_theme": true,
+    "brackets-display-shortcuts": true,
+    "brackets-emmet": true,
+    "zaggino.brackets-eslint": true,
+    "milosh86.extensions-bulk-installer": false,
+    "brackets-indent-guides": true,
+    "brackets-indentator": true,
+    "brackets-minify": true,
+    "brackets-minifier": true,
+    "brackets-minimap": true,
+    "monokai-theme": true,
+    "open-in-browser": true,
+    "mackenza.php-smarthints": true,
+    "brackets-quick-markup": true,
+    "rch-bootstrap-4-snippets": true
+  }
+}
